@@ -33,6 +33,40 @@ Blockchain: Arbitrum Stylus (Rust), EDU Chain (EVM)
 AI Integration: OCR (Tesseract.js) + GPT for fraud detection
 Zero-Knowledge Proofs: zkVerify for credential verification
 
+zkScholar/
+├── frontend/                  # Next.js frontend
+│   ├── pages/
+│   │   ├── index.js           # Homepage
+│   │   ├── verify.js          # Credential verification
+│   │   └── profile.js         # User profile
+│   ├── styles/
+│   │   └── globals.css        # Global styles
+│   ├── public/                # Static assets
+│   └── package.json           # Frontend dependencies
+│
+├── backend/                   # Express backend
+│   ├── routes/
+│   │   ├── verify.js          # Verification API
+│   │   └── issue.js           # NFT issuance API
+│   ├── app.js                 # Express server
+│   └── package.json           # Backend dependencies
+│
+├── contracts/                 # Smart contracts
+│   ├── SoulboundNFT.sol       # Soulbound NFT contract
+│   ├── Verification.sol       # zkVerify integration
+│   └── scripts/
+│       └── deploy.js          # Deployment script
+│
+├── ai/                        # AI integration
+│   ├── ocr.js                 # OCR for certificate verification
+│   └── fraudDetection.js      # GPT-based fraud detection
+│
+├── zkverify/                  # Zero-knowledge proofs
+│   └── proofGenerator.js      # zkVerify proof generation
+│
+├── hardhat.config.js          # Hardhat configuration
+└── README.md                  # Project documentation
+
 
 Use Cases
 
