@@ -24,7 +24,7 @@ Web front-end + smart contracts using EDU Chain & Arbitrum.
 Zero-knowledge credential proofing for universities, employers, and researchers.
 Scalable & business-ready for adoption by institutions.
 
-Tech Stack
+**Tech Stack**
 Frontend: React.js + Next.js
 Backend: Node.js + Express
 Blockchain: Arbitrum Stylus (Rust), EDU Chain (EVM)
