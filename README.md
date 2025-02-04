@@ -30,3 +30,8 @@ Backend: Node.js + Express
 Blockchain: Arbitrum Stylus (Rust), EDU Chain (EVM)
 AI Integration: OCR (Tesseract.js) + GPT for fraud detection
 Zero-Knowledge Proofs: zkVerify for credential verification
+
+Use Cases
+✅ Students: Verify degrees without sharing personal details.
+✅ Researchers: Prove contributions to scientific work while maintaining anonymity.
+✅ Employers: Hire based on verified skills without needing to see all personal data.
