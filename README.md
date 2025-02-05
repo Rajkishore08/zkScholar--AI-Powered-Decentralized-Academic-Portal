@@ -14,6 +14,22 @@
 
 ---
 
+## Setup Instructions
+
+### 1. Prerequisites
+- Install [Node.js](https://nodejs.org/) (v18+)
+- Install [Rust](https://www.rust-lang.org/) (for Arbitrum Stylus)
+- Install [Hardhat](https://hardhat.org/)
+- Install [Docker](https://www.docker.com/) (for zkVerify)
+- Set up a [MetaMask](https://metamask.io/) wallet
+---
+
+
+### 2. Clone the Repository
+
+git clone https://github.com/your-username/zkScholar.git
+cd zkScholar
+
 ## Tech Stack
 - **Frontend:** React.js + Next.js
 - **Backend:** Node.js + Express
@@ -65,3 +81,4 @@ Use Cases
 ✅ Students: Verify degrees without sharing personal details.
 ✅ Researchers: Prove contributions to scientific work while maintaining anonymity.
 ✅ Employers: Hire based on verified skills without needing to see all personal data.
+```
