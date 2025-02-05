@@ -1,6 +1,5 @@
 # zkScholar – AI-Powered Decentralized Academic & Research Credential Verification
 
-![zkScholar Logo](https://via.placeholder.com/150)  
 **zkScholar** is a **multi-purpose Web3 dApp** that allows users to verify and share academic credentials, research work, and skill-based achievements **privately** using **zero-knowledge proofs (ZKPs)**. It integrates **zkVerify, Arbitrum, EDU Chain, and AI** to provide a scalable and secure solution for credential verification.
 
 ---
