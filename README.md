@@ -75,7 +75,7 @@ zkScholar/
 └── README.md                  # Project documentation
 
 
-Use Cases
+***Use Cases***
 
 ✅ Students: Verify degrees without sharing personal details.
 ✅ Researchers: Prove contributions to scientific work while maintaining anonymity.
