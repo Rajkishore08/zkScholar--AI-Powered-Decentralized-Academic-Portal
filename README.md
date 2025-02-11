@@ -41,8 +41,11 @@ zkScholar is **designed to qualify for multiple tracks** by implementing key req
 ---
 
 ## 📸 Screenshots
-![zkScholar Dashboard](https://your-image-link.png)  
-*Credential Verification Page*
+![image](https://github.com/user-attachments/assets/820cb201-52ed-4af0-afd8-a2e5ae1e468a)
+![image](https://github.com/user-attachments/assets/9594be68-8363-4eee-81ce-842aeda435f2)
+![image](https://github.com/user-attachments/assets/303c269d-cb13-46a0-83dc-21089b7a01bc)
+![image](https://github.com/user-attachments/assets/b2fc051c-dc2a-4954-b748-e632dc86941c)
+![image](https://github.com/user-attachments/assets/36aa5556-d074-4d8a-98a4-1c264caf0e17)
 
 ---
 
